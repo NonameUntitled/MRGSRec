@@ -6,7 +6,7 @@ Datasets used for experiments:
 - Movielens 1M (https://grouplens.org/datasets/movielens):
 - Amazon (https://nijianmo.github.io/amazon/index.html):
   - All_Beauty, Clothing_Shoes_and_Jewelry, Sports_and_Outdoors
- To initiate datasets preparation process, one needs to run notebooks from the [notebook](./notebooks) directory.
+ To initiate datasets preparation process, one needs to run notebooks from the [notebook](./notebooks) arhchive.
 
 ## Model training
 To train the MRGSRec model, simply run:
